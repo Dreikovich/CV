@@ -4,15 +4,10 @@ body{
     background: #eeee;
     /* height:auto; */
     min-height: 100vh;
-    font-family:"Courier";
+    font-family:"Lucida Sans Unicode";
     width:1000px;
     
 }
-* {
-    
-    font-family:"Courier";
-}
-
 .app{
     /* height: 300px; */
     display:flex;
