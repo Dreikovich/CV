@@ -81,6 +81,16 @@ body{
     display: flex;
     align-items: center;
 }
+.share-block a{
+    margin-left:15px;
+   
+}
+.share-block span{
+    margin-left:15px;
+   
+}
+
+
 
 .share{
     display: flex;
