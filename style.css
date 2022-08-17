@@ -30,7 +30,14 @@ body{
     justify-content:space-between;
     flex-direction: row;
     flex: 0 0 50em;
-    background:#868DB8;
+    /* background:#868DB8; */
+    /* background: #3743A1; */
+    /* background: #300099; */
+    /* background:#435399 */
+    background:#5F7499;
+
+
+
 
     ;
     color: #eeee;
