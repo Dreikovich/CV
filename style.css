@@ -131,6 +131,7 @@ body{
 
 .itemMain{
     margin-left:15px;
+    width: 100%;
 }
 
 .item{
@@ -197,10 +198,5 @@ body{
     width: 150px;
 }
 
-.row{
-    display: flex;
-    justify-content: space-between;
-    /* align-items: center; */
-}
 
 
