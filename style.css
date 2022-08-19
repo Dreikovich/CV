@@ -59,6 +59,7 @@ body{
 
 .credentials p{
     margin:0;
+
 }
 
 
@@ -66,23 +67,27 @@ body{
 
 .info{
     display: flex;
-    align-content: center;
-    flex-direction: column;
-    width:65%;
-    margin-left: 50px;
+    align-items: center;
+    /* flex-direction: row; */
+    width:74%;
+    /* margin-left: 0px; */
     justify-content: center;
-    margin-left: 320px !important;
+    /* margin-left: 50px !important; */
    
 }
 
+.image {
+    margin-left:30px;
+}
 
 .img{
     
     /* display:flex;
     flex-direction: row; */
+    /* margin-left:15px; */
     border-radius: 50%;
     margin-left: 15px;
-    width: calc(100%/2-400px)
+    /* width: calc(100%/2-300px) */
 }
 .share-block{
     display: flex;
@@ -103,7 +108,7 @@ body{
     display: flex;
     /* align-content: flex-end; */
     flex-direction: column;
-   
+    /* width:50% */
     text-decoration: none;
     color:inherit;
     
